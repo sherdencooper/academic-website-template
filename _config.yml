@@ -2,8 +2,9 @@
 title: Jiahao Yu
 email: jiahaoyu04@gmail.com
 description: Academic webpage of Jiahao Yu
-baseurl: "https://sherdencooper.github.io/"
+baseurl: ""
 url: ""
+github_repo: "https://github.com/sherdencooper/sherdencooper.github.io.git"
 
 
 # # Google analytics ID: Remove or use your own!

@@ -7,7 +7,7 @@ permalink: /about/
 
 ## About 
 
-{% for member in site.data.pi %}
+<!-- {% for member in site.data.pi %}
 <div class="jumbotron">
 <div class="row">
 <div class="col-sm-4">
@@ -114,4 +114,4 @@ permalink: /about/
   <div style='display:block; text-align:center; margin-left:auto; margin-right:auto;'>
  {% for funder in site.data.funders %}<a href="{{ funder.url }}" target="_blank"><img src='{{ site.url }}{{ site.baseurl }}/images/logopic/{{ funder.image }}' style='max-height: 80px; max-width: 200px; margin: 1%'/></a>{% endfor %}
   </div>
-</div>
+</div> -->
